@@ -1,0 +1,1 @@
+React functional components with Hooks to manage state and context is much easier to read and write than class components!
